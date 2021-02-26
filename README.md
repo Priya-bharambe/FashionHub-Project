@@ -1,35 +1,6 @@
-# Fashionhub
+# Output :
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-
-![alt text](https://user-images.githubusercontent.com/77727169/109039680-123c3c00-76f3-11eb-9590-3892ad0e04f9.png)
-
-
-
-
-
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![FashionHub1](https://user-images.githubusercontent.com/77727169/109267925-541ecc80-7830-11eb-82c7-d188ca79c6ef.PNG)
+![FashionHub2](https://user-images.githubusercontent.com/77727169/109267948-5da83480-7830-11eb-91ee-9eee0ed1ab5f.PNG)
+![FashionHub3](https://user-images.githubusercontent.com/77727169/109268034-82041100-7830-11eb-9411-9af56ecaf407.PNG)
+![FashionHub4](https://user-images.githubusercontent.com/77727169/109268102-9ea04900-7830-11eb-9a96-1eb8add10ff3.PNG)
